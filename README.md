@@ -8,7 +8,7 @@ I pay attention to every part in software structure so it's priority to keep imp
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [narin.sang@integratesolve.com](mailto:narin.sang@integratesolve.com)
-* 🧠  I'm learning Type-Script
+* 🧠  I'm learning IaC
 
 ### Skills
 

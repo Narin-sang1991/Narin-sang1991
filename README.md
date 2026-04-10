@@ -4,7 +4,7 @@ Hi 👋 My name is Narin-Ball
 Senior Software Engineering
 ---------------------------
 
-I pay attention to every part in software structure so it's priority to keep important same thing to details.
+Detail-oriented Software Engineer focused on building robust software architectures and maintaining high-quality code standards.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [narin.sang@integratesolve.com](mailto:narin.sang@integratesolve.com)
